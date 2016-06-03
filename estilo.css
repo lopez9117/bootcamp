@@ -1,0 +1,32 @@
+h1{
+    
+    background-color: cornflowerblue;    
+    
+}
+
+.titulo-verde{
+    
+    color: green;
+}
+
+#titulo2{
+    color: aqua
+}
+
+section.seccion-de-estudiantes ul{
+    background-color: cadetblue;
+    text-align: center;
+    color: black;
+    padding: 10px;
+    
+}
+
+section.section-de-estudiantes ul li{
+    list-style: none;
+    
+}
+
+footer{
+    text-align: center;
+    
+}

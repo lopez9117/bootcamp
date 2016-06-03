@@ -1,0 +1,4 @@
+las clases de llaman con . en css
+
+los identificadores se llaman con # en css
+

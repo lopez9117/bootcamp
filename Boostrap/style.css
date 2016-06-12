@@ -1,0 +1,26 @@
+
+
+body {
+    
+    background-color: #edeff0;
+    
+ }
+
+.container {
+    background-color: white;
+    width: 700px;
+ 
+}
+
+p {
+    font-family: Helvetica Neue;  
+    font-size: 16px;
+    color: #b2bac2;
+    line-height: 1.6;
+}
+
+h2 {
+    color: #384047;
+    font-size: 28px;
+    
+}

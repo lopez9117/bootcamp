@@ -1,0 +1,119 @@
+*{
+	box-sizing: border-box;
+	margin:0 auto;
+	padding: 0 auto;
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px; /*medida estandar*/
+	/*es buena practica igualar todas las fuentes y tamañanos del body*/
+	background: #eee;
+}
+
+.home-wrapper {
+	background: url('../images/bg_2.jpg');
+	/*el anterior es para llamar imagenes del direcctorio*/
+	color:white;
+}
+
+header nav {
+	float: right;
+	margin:10px;
+}
+
+header nav a {
+	color:white;
+	text-decoration: none;
+	margin-left: 10px;
+	padding: 10px 15px;
+}
+
+header nav a.active {
+	background: #fed136;
+	border-radius: 3px;
+}
+
+header .logo {
+	font-size: 22px;
+}
+
+#home {
+	text-align: center;
+	padding: 200px 0 150px;
+}
+#home  h1{
+	font-size: 68px;
+	font-weight: normal;
+	margin-bottom: 40px;
+}
+
+#home p {
+	font-size: 20px;
+	margin-top: 40px;
+}
+
+#home .social {
+	margin-top: 80px;
+}
+
+#home .social a{
+	background: black;
+	border-radius: 50%;
+	color:white;
+	display: inline-block;
+	font-size: 24px;
+	font-weight: bold;
+	height: 50px;
+	line-height: 50px;
+	width: 50px;
+}
+
+.container {
+	width: 992px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#servicios {
+	text-align: center;
+}
+
+#servicios h2 {
+	margin: 50px;
+	font-size: 32px;
+}
+
+#servicios .box {
+	display: inline-block;
+	padding: 10px;
+	width: 33%;
+}
+
+#portafolio h2{
+	font-size: 32px;
+	margin-top: 40px;
+	margin-bottom: 80px;
+	text-align: center;
+}
+
+#portafolio .box {
+	display: inline-block;
+	text-align: center;
+	width: 31%;
+	margin:5px;
+	background: white;
+	line-height: 1.2;
+}
+
+#portafolio .box h3 {
+	margin: 4px;
+}
+
+#portafolio .box p {
+	margin: 4px;
+}
+
+#portafolio .box img{
+	width: 100%
+}

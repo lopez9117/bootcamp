@@ -17,6 +17,7 @@ body {
 	color:white;
 }
 
+
 header{
     background-color: rgba(48, 48, 48,0.5);
     position: fixed;
@@ -123,4 +124,40 @@ header .logo {
 
 #portafolio .box img{
 	width: 100%
+}
+#contacto{
+   background-color: #303030; 
+    background-image: url(../images/map-image.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+#contacto h2{
+    color: white;
+    font-size: 32px;
+}
+
+#contacto input{
+padding: 15px;
+    width: 400px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+#contacto textarea{    
+    width:400px;
+    margin: 20px;
+    padding: 20px:
+    
+}
+#contacto button{
+    background: #fed136;
+    padding: 20px 40px;
+    border-color: #fed136;
+    border-radius: 3px;
+    font-size: 18px;
+    color: white;
+    line-height: 1;
+    font-weight: bold;            
 }

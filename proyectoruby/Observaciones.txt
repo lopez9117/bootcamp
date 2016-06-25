@@ -1,0 +1,11 @@
+*las clases de llaman con . en css
+
+*los identificadores se llaman con # en css
+
+*en ruby las variables no necesitas declararlas por ejemplo mi_num = 345, o mi_num =true, o mi_num = "contenido de texto o numero"
+
+* en ruby existe los operadores de ** que es exponenciar por ejemplo 3**2 = 9, o 5**3 = 125
+
+* en ruby igual existe el valor de 
+
+

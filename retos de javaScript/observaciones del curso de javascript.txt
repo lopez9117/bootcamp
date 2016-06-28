@@ -1,0 +1,29 @@
+comfirm("es un popup que sale con el texto que se ingrese en las comillas");
+
+prompt("aparece un pop up con un input para ingresar cualquier cosa");
+
+.length = te trae el calor que tiene el elemento  ejemplo "mi nombre".length = 8
+
+substring(x,y) sub cadenas te muestra la cadena desde donde la coloques en los parentecis, el primer parametro empieza desde cero, el segundo es donde termina ejemplo "lucho".substring(0,3) te imprime "luc"
+
+console.log "muestra un mensaje en la consola" ejemplo console.log("Este es el mensaje");
+
+
+var nombreDeLaFuncion = function(parametroQueRecibe){
+
+  todo lo que hace la funcion va aqui.
+ si la funcion solonecesita un cosa en especifica utilizamos el RETURN;
+
+}
+
+
+Metodos para los arreglos
+var arreglo = ["lunes","martes"]
+
+agregar elementos: arreglo.push("miercoles") y esto imprime lunes, martes y miercoles.
+
+eliminar elementos arreglo.pop y esto imprime lunes, martes
+
+ordenar alfabeticamente arreglo.sort() y esto imprime el arreglo alfabeticamente
+
+ordenar alfabeticamente arreves arreglo.reverse y esto imprime el arreglo a la inversa

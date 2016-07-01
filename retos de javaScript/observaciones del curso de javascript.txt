@@ -27,3 +27,5 @@ eliminar elementos arreglo.pop y esto imprime lunes, martes
 ordenar alfabeticamente arreglo.sort() y esto imprime el arreglo alfabeticamente
 
 ordenar alfabeticamente arreves arreglo.reverse y esto imprime el arreglo a la inversa
+
+document.write("escribe en html");
